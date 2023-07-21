@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Kurbaga
+  - Kartal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - zemin
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 4008385291
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: tileMaps
+    uniqueID: 2828503641
+    locked: 0
+  - name: efektler
+    uniqueID: 647045605
+    locked: 0
+  - name: "CevreElemanlar\u0131"
+    uniqueID: 1621642135
+    locked: 0
+  - name: Player
+    uniqueID: 3573807699
+    locked: 0
